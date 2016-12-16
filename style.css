@@ -1,0 +1,9 @@
+center {
+    display: block;
+    text-align: -webkit-center;
+    margin-top: 100px;
+}
+
+img {
+    size: 50%;
+}
