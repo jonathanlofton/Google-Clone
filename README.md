@@ -1,2 +1,3 @@
-# google_clone
+# Google Clone
+
 This will be my attemp to clone the google home page...
